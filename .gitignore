@@ -35,3 +35,5 @@ backend/data/*.pdf
 # Environment
 .env
 .env.local
+frontend/.env
+frontend/.env.local
